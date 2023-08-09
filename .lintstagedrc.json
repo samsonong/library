@@ -1,4 +1,6 @@
 {
-  "*.(ts|tsx)": ["prettier --write", "eslint"],
-  "*.(md|json)": ["eslint", "prettier --write"]
+    "*.(ts|tsx)": [
+        "prettier --write",
+        "eslint"
+    ]
 }
